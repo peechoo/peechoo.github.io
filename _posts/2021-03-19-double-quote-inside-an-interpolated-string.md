@@ -4,11 +4,13 @@ date: 2021-03-19
 author: zyk
 ---
 
+关于 Scala 的字符串插值器 s 为什么不支持双引号 `\"` 的调查和思考。
+
 ## 问题来源
 
 用 `\"` 在字符串中插入双引号，遇到报错：
 
-[<img src="https://s3.ax1x.com/2021/03/19/6RbNM4.png" alt="vscode snap" style="zoom: 75%;" />](https://imgtu.com/i/6RbNM4)
+[![vscode_snapshot](https://s3.ax1x.com/2021/03/19/6Wn9Vs.md.png)](https://imgtu.com/i/6Wn9Vs)
 
 ## tl;dr
 
