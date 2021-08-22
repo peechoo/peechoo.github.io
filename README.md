@@ -1,2 +1,1 @@
-# peechoo.github.io
-tiny blog
+🐌 A tech blog maintained by 2 CS students.
